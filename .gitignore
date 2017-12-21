@@ -1,5 +1,6 @@
 # Freqtrade rules
 freqtrade/tests/testdata/*.json
+freqtrade/optimize/hyperopt_conf.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
